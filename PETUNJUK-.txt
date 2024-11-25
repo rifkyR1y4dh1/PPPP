@@ -1,0 +1,77 @@
+REQ PASSWORD RAR
+HUB : 081572983745 (WhatsApp Only)
+=================================
+Aplikasi Survey Indeks Kepuasan Masyarakat Menggunakan Laravel 10
+=====================================================
+PLAYLIST LENGKAP SOURCE CODE : https://bit.ly/3O3eApC
+=====================================================
+## Framework 
+LARAVEL v.10
+
+## Requirement
+1. php 8.2
+2. MySQL / MariaDB
+
+==PETUNJUK INSTALASI==
+#ektrak file project
+#buat database dan import sql di folder _db
+#sesuiakan nama database di .env
+#buka terminal pada folder project
+#jalankan perintah : npm run dev
+#buka terminal pada folder project
+#jalankan perintah : php artisan serve
+#buka url : http://127.0.0.1:8000/
+
+ADMIN
+user : admin@admin.com
+pass : admin
+
+=========
+pertanyaan kuisioner untuk masing-masing unsur:
+
+Persyaratan:
+a. Seberapa jelas dan mudah dipahami persyaratan yang diberikan?
+b. Apakah Anda mengalami kesulitan dalam memenuhi persyaratan yang ditetapkan?
+c. Bagaimana tingkat kepuasan Anda terhadap informasi yang disediakan tentang persyaratan?
+
+Prosedur:
+a. Sejauh mana prosedur pelayanan terlihat efisien dan efektif bagi Anda?
+b. Apakah ada aspek prosedur yang menurut Anda perlu ditingkatkan atau disederhanakan?
+c. Bagaimana pengalaman Anda dalam mengikuti prosedur pelayanan?
+
+Waktu Pelayanan:
+a. Seberapa cepat pelayanan diberikan sesuai dengan waktu yang dijanjikan?
+b. Apakah ada peningkatan yang dapat dilakukan dalam mengurangi waktu tunggu?
+c. Bagaimana tingkat kepuasan Anda terhadap kecepatan pelayanan yang diberikan?
+
+Biaya Tarif:
+a. Apakah biaya yang dikenakan sesuai dengan kualitas pelayanan yang Anda terima?
+b. Apakah ada klarifikasi yang diperlukan terkait dengan biaya tarif?
+c. Bagaimana tingkat kepuasan Anda terhadap nilai uang dari biaya yang dikeluarkan?
+
+Produk Layanan:
+a. Apakah produk layanan yang diberikan memenuhi harapan Anda?
+b. Apakah ada aspek khusus dari produk layanan yang menurut Anda perlu diperbaiki?
+c. Bagaimana tingkat kepuasan Anda terhadap variasi produk layanan yang ditawarkan?
+
+Kompetensi Pelaksana:
+a. Seberapa kompeten dan berpengetahuan para pelaksana dalam memberikan pelayanan?
+b. Apakah Anda merasa puas dengan tingkat keahlian para pelaksana?
+c. Apakah ada area di mana pelaksana dapat meningkatkan kompetensinya?
+
+Perilaku Pelaksana:
+a. Sejauh mana pelaksana memberikan pelayanan dengan sikap ramah dan profesional?
+b. Apakah Anda pernah mengalami perilaku pelaksana yang tidak diinginkan?
+c. Bagaimana tingkat kepuasan Anda terhadap interaksi dengan pelaksana?
+
+Sarana dan Prasarana:
+a. Bagaimana kualitas sarana dan prasarana yang disediakan untuk pelayanan?
+b. Apakah ada fasilitas atau peralatan yang perlu diperbaiki atau ditingkatkan?
+c. Bagaimana tingkat kepuasan Anda terhadap kondisi sarana dan prasarana?
+
+Penanganan Pengaduan:
+a. Apakah Anda puas dengan cara pengaduan Anda ditangani?
+b. Apakah ada saran yang dapat diberikan untuk meningkatkan proses penanganan pengaduan?
+c. Bagaimana tingkat kepuasan Anda terhadap respons terhadap pengaduan yang Anda ajukan?
+
+Pastikan pertanyaan-pertanyaan tersebut dapat memberikan informasi yang relevan dan bermanfaat untuk mengevaluasi setiap unsur yang diinginkan.
